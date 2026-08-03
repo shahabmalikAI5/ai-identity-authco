@@ -1,0 +1,7 @@
+packages:
+  - resource-server
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
+overrides:
+  kysely: 0.28.17
