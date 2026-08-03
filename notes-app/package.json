@@ -1,0 +1,17 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs",
+    "dev": "node --watch index.mjs"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^17.4.2",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "jose": "^5.9.0"
+  }
+}
